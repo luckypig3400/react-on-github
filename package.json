@@ -1,7 +1,7 @@
 {
   "name": "react-on-github",
   "version": "0.1.0",
-  "homepage": "https://luckypig3400.github.io/reactTest",
+  "homepage": "https://luckypig3400.github.io/react-on-github",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
